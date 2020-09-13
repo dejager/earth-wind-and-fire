@@ -2,7 +2,7 @@
 # How to use this playground
 * This is place to play with fragment shaders without the need for a pesky
 * mobile device.
-* Progam your own shader function in `rorschach` in InkBlot.metal. You
+* Progam your own shader function in `iThinkImGettingTheBlackLungPop` in Smoke.metal. You
 * can also add your own metal files/functions. In that case, change the name
 * of the resource file to load the `MTLLibrary` or `functionName` to set on the `ShaderRenderer`.
 */
